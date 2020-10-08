@@ -19,7 +19,7 @@ from keras.layers import Dense#used to add fullly connected layers in an ann;
 ```python
 classifier = Sequential()
 ```
-![PIC](https://user-images.githubusercontent.com/34786046/95491419-32bf6000-09b7-11eb-888e-48e45b357f9a.jpg)
+
 
 ### Convolution
 ```python
