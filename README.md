@@ -19,6 +19,8 @@ from keras.layers import Dense#used to add fullly connected layers in an ann;
 ```python
 classifier = Sequential()
 ```
+![PIC](https://user-images.githubusercontent.com/34786046/95491419-32bf6000-09b7-11eb-888e-48e45b357f9a.jpg)
+
 ### Convolution
 ```python
 classifier.add(Convolution2D(32, 3, 3, input_shape = (256, 256, 3), activation = 'relu'))
